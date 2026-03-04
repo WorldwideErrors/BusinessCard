@@ -21,7 +21,7 @@ Deze opdracht komt uit de Kotlin Course van Google. [Unit 1, Pathway 3](https://
 
 ### Requirements
 
-- Android Studio: Hedgehog (2023.1.1) of nieuwer
+- Android Studio: Otter (2025.2.1)
 - JDK: 11
 - Minimum SDK: 24
 - Target SDK: 36
